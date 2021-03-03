@@ -3,7 +3,7 @@
 	"version": "0.1",
 	"description": "gives you awnsers to d2l quizzes",
 	"permissions": [
-		"activeTab"
+		"*.cssd.ab.ca"
 	],
 	"background": {
 		"scripts": [
