@@ -1,7 +1,7 @@
 {
-	"name": "Cookie Splitter SR",
-	"version": "69.420.1",
-	"description": "Jackson's Cookie splitter",
+	"name": "d2l nuker",
+	"version": "Alpha",
+	"description": "gives you awnsers to d2l quizzes",
 	"permissions": [
 		"activeTab"
 	],
